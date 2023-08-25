@@ -6,6 +6,10 @@ codepath prework for intro to IOS course
 Submitted by: **Victor Osunji**
 
 **Name of your app** is an app that... [TODO] 
+ - Added light/dark mode(has icons that display with respective mode)
+ - Button to change text color.
+ - Button to display more info about umbc, new page includes images
+ - Text font is different
 
 Time spent: **X** hours spent in total
 
@@ -30,6 +34,19 @@ GIF created with ...
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+Spotify:
+ - Personalized Playlists: Spotify's algorithms create personalized playlists based on user preferences, ensuring a unique music listening experience.
+ - Offline Listening: Users can download songs and playlists for offline listening, making it convenient to enjoy music without an internet connection.
+
+Waze:
+ - User-Generated Alerts: Waze allows users to report incidents they encounter on the road, such as accidents, police presence, road hazards, and even speed traps. These user-generated alerts create a dynamic and ever-changing map that keeps drivers aware of potential obstacles.
+ - Voice-Guided Navigation: Waze offers turn-by-turn navigation with voice guidance. The voice navigation can be personalized with different voices and languages.
+ - Integration with Calendar and Contacts: Waze integrates with your smartphone's calendar and contacts, allowing you to easily navigate to events and appointments without needing to manually enter addresses.
+
+Uber Eats:
+ - Scheduled Delivery: The ability to schedule your food delivery in advance is a game-changer. Whether you're planning a meal for later in the day or arranging a special treat for an event, Uber Eats allows you to choose your delivery time, ensuring your food arrives when you want it.
+ - Tip Drivers After the Order: Unlike traditional dining experiences where tipping is done in person, Uber Eats lets you tip your delivery driver even after your meal has been dropped off. This ensures that your appreciation is accurately reflected in their hard work.
+ - Multi-Store Orders: Uber Eats allows users to add items from multiple restaurants to a single order. This gives you the freedom to create a customized meal experience, satisfying a variety of tastes without the need for multiple transactions.
 
 ## Notes
 
@@ -37,7 +54,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Victor Osunji]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
