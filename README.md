@@ -27,7 +27,7 @@ Here's a walkthrough of implemented user stories:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ...  Kap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -48,9 +48,14 @@ Uber Eats:
  - Tip Drivers After the Order: Unlike traditional dining experiences where tipping is done in person, Uber Eats lets you tip your delivery driver even after your meal has been dropped off. This ensures that your appreciation is accurately reflected in their hard work.
  - Multi-Store Orders: Uber Eats allows users to add items from multiple restaurants to a single order. This gives you the freedom to create a customized meal experience, satisfying a variety of tastes without the need for multiple transactions.
 
-## Notes
 
-Describe any challenges encountered while building the app.
+App Idea: EcoScan - Sustainable Shopping Companion
+
+EcoScan is a visionary app that aims to empower consumers in making environmentally conscious shopping decisions. By integrating cutting-edge barcode scanning technology with comprehensive sustainability databases, EcoScan allows users to scan product barcodes in stores and instantly access information about a product's environmental impact. The app would provide insights into factors like carbon footprint, water usage, packaging sustainability, and ethical sourcing. Users could set their own sustainability preferences, and EcoScan would offer alternative product recommendations that align with their values. Additionally, the app could include a community-driven aspect, where users share their own findings and insights about eco-friendly products they've discovered. Collaborating with manufacturers to provide accurate and up-to-date information would be crucial for the app's success. As a future enhancement, integration with online shopping platforms could enable users to make conscious choices even when shopping online. I'm excited to gather feedback on this idea, exploring ways to make sustainable shopping a convenient and impactful choice for consumers worldwide.
+
+## Notes - Describe any challenges encountered while building the app.
+- Making Dark/Light mode icon slide with UISwitch
+- Changing text color
 
 ## License
 
