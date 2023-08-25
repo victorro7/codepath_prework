@@ -1,17 +1,17 @@
 # Codepath_prework
 codepath prework for intro to IOS course
 
-# Prework - *Name of App Here*
+# Prework - *Swift Familiarity*
 
 Submitted by: **Victor Osunji**
 
-**Name of your app** is an app that... [TODO] 
+Features... [TODO] 
  - Added light/dark mode(has icons that display with respective mode)
  - Button to change text color.
  - Button to display more info about umbc, new page includes images
  - Text font is different
 
-Time spent: **X** hours spent in total
+Time spent: **24** hours spent in total
 
 ## Required Features
 
