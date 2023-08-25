@@ -24,7 +24,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='![](https://i.imgur.com/2E5QulI.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
+<img src='![](https://github.com/victorro7/codepath_prework/blob/main/introiosapp.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  Kap
